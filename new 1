@@ -1,0 +1,16 @@
+<!DICTYOE html>
+<html lang=„hr">
+<head>
+ <meta charset=„utf-8">
+  <title> Naslov </title>
+  </head>
+  <body>
+  <!-- Sadržaj dokumenta -->
+  <h1> Osnovna HTML stranica </h1>
+  <p> Paragraf teksta </p>
+  <capitation>Popis predmeta i polaznika </capitation>
+  <tr>
+  <th> Matematika
+  <th> Kemija
+  <th> Biologija
+  

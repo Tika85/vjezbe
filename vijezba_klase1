@@ -1,0 +1,15 @@
+<?php
+
+// Definirati klasu Namjestaj koja ce imati elemente cijena boja i materijal 
+// i funkcionalnosti postavljana i dohvacanja cijene
+// definirati klasu Stol koja nasljeđuje klasu Namjestaj i ima dodatne elemente broj nogu
+// i funcionalnost postavljanja i dohvacanja cijene
+// stvoriti obijekt stolac i postaviti mu cijenu i broj nogu te ispisati 
+
+class namjestaj 
+
+
+
+
+
+?>
